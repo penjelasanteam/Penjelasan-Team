@@ -1,0 +1,2 @@
+# Penjelasan-Team
+Perhitungan Gaji
